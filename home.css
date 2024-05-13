@@ -1,0 +1,261 @@
+.div1{
+    background-image: url('sony1.jpg');
+    height: 500px;
+    max-width: 100%;
+    /* background-position: center; */
+    background-size: cover; 
+}
+.div2{
+    margin-left: 190px;
+    padding-top: 150px;
+}
+header{
+    height: 70px;   
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+}
+span{
+     font-family:'Arial';
+     font-size: 40px;
+     
+}
+.b1{
+    margin-top: 20px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(82, 82, 216);
+    color: aliceblue;
+}
+.head{
+    padding-left: 170px;
+    /* padding-top: 2px; */
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+.icon{
+    font-size: 30px;
+    padding-left: 800px;
+    
+}
+#icon1{
+    padding-left: 20px;
+}
+.img1{
+    width: 380px;
+    /* padding-left: 30px; */
+    height: 320px;
+    
+}
+.b2{
+    width: 200px;
+    height: 40px;
+    margin-left: 30px;
+    background-color:white;
+    border-radius: 5px;
+}
+.best{
+    margin-left: 200px;
+    margin-top: 50px;
+    display: flex;
+    width: 1130px;
+    height: 586;
+}
+.best2{
+    background-color: rgb(180, 122, 46);
+    height: 183px;
+    width: 550px;
+    color: aliceblue;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.best3{
+    width: 580px;
+    height: 373.58px;
+    display: flex;
+}
+.imgbottom{
+    height: 400px;
+    width: 500px;
+    margin-left: 30px;
+    /* padding-left: 30px; */
+}
+.imgd1{
+    background-color: black;
+    width: 380px;
+    margin-left: 165px;
+    height: 440px;
+}
+.imgd1bottom{
+    color: aliceblue;
+    padding-left: 20px;
+    font-family: SST W01 Bold, sans-serif, Helvetica Neue, Helvetica, Arial;
+}
+.imgd2{
+    background-color: black;
+    width: 380px;
+    height: 440px;
+    margin-left: 30px;
+}
+.imgd2bottom{
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: SST W01 Bold, sans-serif, Helvetica Neue, Helvetica, Arial;
+}
+.imgd3{
+    background-color:rgba(243,244,246,.9) ;
+    width: 380px;
+    height: 440px;
+    margin-left: 30px;
+    color: #2f353d;
+}
+.imgd3bottom{
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: SST W01 Bold, sans-serif, Helvetica Neue, Helvetica, Arial;
+}
+.imgd4{
+    padding-left: 30px;
+    background-color: rgba(244, 247, 253, 0.9);
+}
+.img2{
+    height: 120px;
+    width: 100px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.bestd2bottom{
+    background-color: #f2f5f9;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 163px;
+    width: 163px;
+    
+}
+.bestd2bottom2{
+    background-color: white;
+    height: 100px;
+    width: 163px;
+    color: #2f353d;
+    margin-left: 20px;
+    font-family: "SST W01 Roman", sans-serif, "Helvetica Neue", Helvetica, Arial;
+    font-size: 12px;
+    color: 
+    rgb(47, 53, 61);
+    font-weight: 400;
+}
+.imgbigtv{
+    margin-left: 41px;
+    margin-right: 41px;
+    width: 467.5px;
+    height: 388px;
+    margin-top: 0;
+}
+.bigimg{
+    width: 585px;
+    height: 363px;
+}
+.divbigimg{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 30px;
+    height: 363px;
+    width: 1200px;
+}
+
+
+.divbigimg2{
+    background-color: rgb(231, 239, 239);
+    width: 615px;
+    
+}
+.divbigimg2_1{
+    font-family: "SST W01 Roman", sans-serif, "Helvetica Neue", Helvetica, Arial;
+    font-size: 30px;
+    font-weight: 400px;
+    color: 
+    rgb(47, 53, 61);
+    margin-left: 25px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+.divbigimg2_2{
+    margin-left: 25px;
+    font-family: "SST W01 Roman", sans-serif, "Helvetica Neue", Helvetica, Arial;
+    color: rgb(107, 107, 123);
+    font-size: 15px; 
+    margin-top: 5px;
+}
+
+.bottomdiv1{
+    height: 281px;
+    background-color: rgb(241, 245, 247);
+    font-size: .8125rem;
+}
+.bottomdiv2{
+    background-color: black;
+    height: 484px;
+}
+
+.footer1{
+    margin-left: 160px;
+    color: rgb(107, 107, 123);
+    font-size: 13px;
+
+}
+.footer2_1{
+    color: rgb(135, 135, 146);
+    font-family:SST W01 Roman, sans-serif, Helvetica Neue, Helvetica, Arial;
+    font: size 15px; ;
+}
+.footerbox{
+    height: 177px;
+    width: 1200px;
+    padding-top: 60px;
+    margin-left: 160px;
+    display: flex;
+}
+.footer2{
+    width:268px ;
+    height: 117px;
+    margin-left: 43px;
+}
+.box{
+    display: flex;
+    width: 268px;
+    height: 43px;
+    border: 1px solid rgb(135, 135, 146);
+    align-items: center;
+    margin-top: 30px;
+}
+.footer{
+    color: aliceblue;
+    font-size: 13px;
+    padding-left: 20px;
+}
+.rightfooter{
+    width: 1200px;
+    height: 82px;
+    margin-left: 160px;
+    
+}
+.emplom{
+    width: 51px;
+    height: 36px;
+    text-align: center;
+    background-color:#3c3c42 ;
+    padding-top: 10px;
+    
+}
+.emplom i{
+    font-size: 30px;
+}
+hr{
+    margin-top: 20px;
+    width: 1200px;
+    color: #3c3c42;
+}
